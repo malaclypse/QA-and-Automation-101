@@ -16,7 +16,14 @@ Read the following articles (10 minutes):
 Answer the following questions (10 minutes):
 
 * In a software system, what properties are of interest to a QA person ?
+    - how well the product meets the requirements for its design and development
+    - if it responds correctly to input
+    - if its performance is good enough
+    - if it can be installed and run on the intended environments
+    - if it achieves the result it was created for
 * At which point in the software development life-cycle is QA involved ?
+    - QA should be involved since the beginning of a project, and throughout the development as suitable. 
+    - The earlier testing starts, the better and more cost-effective it will be.
 
 Instructor will discuss with the class why these are important (10 minutes).
 
@@ -34,6 +41,8 @@ Read the following articles (10 minutes):
 Answer the following questions (10 minutes):
 
 * What is a tester good for ?
+    - A tester is good for executing test cases that have already been written.
+    - 
 * What are the weak sides of a tester ?
 * What is a QA good for ?
 * What are some tasks of a QE engineer ?
